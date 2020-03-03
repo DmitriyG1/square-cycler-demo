@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ru.kode.squarecyclerdemo.ui.AppleView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="@color/colorAccent"
+    android:textColor="@android:color/white"
+    android:clickable="true"
+    android:foreground="?attr/selectableItemBackground"
+    tools:text="Apple"
+    />
